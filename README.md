@@ -1,5 +1,5 @@
 # Zero-shot Improvement of Object Counting with CLIP
-[Ruisu Zhang](https://ruisu516.github.io/), Yicong Chen, [Kangwook Lee](https://kangwooklee.com/)
+[Ruisu Zhang*](https://ruisu516.github.io/), [Yicong Chen*](https://bryce-chen.github.io/), [Kangwook Lee](https://kangwooklee.com/)
 
 This is the code repository for paper **Zero-shot Improvement of Object Counting with CLIP** ([link](link)) accepted by R0-FoMo Workshop in Neurips 2023.
 
